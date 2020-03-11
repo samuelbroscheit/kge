@@ -1,5 +1,4 @@
 <img align="left" src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE-logo-Color.png">
-
 # LibKGE: A knowledge graph embedding library
 
 LibKGE is a PyTorch-based library for efficient training, evaluation, and
