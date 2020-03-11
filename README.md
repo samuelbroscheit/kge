@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE-logo-Color.png">
+<img align="left" src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE-logo-Color.png" style="margin-top: -90pt">
 
 # LibKGE: A knowledge graph embedding library
 
