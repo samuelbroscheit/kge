@@ -4,8 +4,9 @@
 <!-- LibKGE-logo-3-colorscheme7.png //-->
 <!-- LibKGE-logo-2-basic-slim-colorscheme2b.png //-->
 <!-- LibKGE-logo-2-basic-slim-colorscheme3b.png //-->
-# A knowledge graph embedding library
 </p>
+
+# LibKGE: A knowledge graph embedding library
 
 LibKGE is a PyTorch-based library for efficient training, evaluation, and
 hyperparameter optimization of [knowledge graph
