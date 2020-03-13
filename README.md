@@ -1,6 +1,6 @@
-<img align="left" src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE-logo-2-basic-slim-colorscheme2b.png">
+<img align="left" src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE-logo-2-basic-slim-colorscheme2b.png" width="200">
 
-# LibKGE: A knowledge graph embedding library
+# A knowledge graph embedding library
 
 LibKGE is a PyTorch-based library for efficient training, evaluation, and
 hyperparameter optimization of [knowledge graph
