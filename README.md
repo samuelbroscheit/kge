@@ -1,5 +1,6 @@
 <p align="center">
 <img src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE-logo-3-colorscheme7.png" width="400">
+<!-- LibKGE-logo-2-basic-slim-colorscheme2b.png //-->
 </p>
 
 # A knowledge graph embedding library
