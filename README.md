@@ -4,6 +4,7 @@
 <!-- LibKGE-logo-3-colorscheme7.png //-->
 <!-- LibKGE-logo-2-basic-slim-colorscheme2b.png //-->
 <!-- LibKGE-logo-2-basic-slim-colorscheme3b.png //-->
+<!-- LibKGE-logo-2-basic-slim-colorscheme5b.png //-->
 </p>
 
 # LibKGE: A knowledge graph embedding library
