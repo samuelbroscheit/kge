@@ -1,4 +1,4 @@
-<table>
+<table border="0">
 <!-- LibKGE-logo-4-colorscheme1.png //-->
 <!-- LibKGE-logo-3-colorscheme1.png //-->
 <!-- LibKGE-logo-3-colorscheme7.png //-->
