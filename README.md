@@ -8,7 +8,7 @@
 
 <img  src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE%20Logo.svg" width="140" align="left">
 <h1> 
- <div> LibKGE: A knowledge graph embedding library </div> 
+ <div> A knowledge graph embedding library </div> 
 </h1>
 <br/>
 
