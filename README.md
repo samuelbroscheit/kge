@@ -1,4 +1,3 @@
-<div>
 <!-- LibKGE-logo-4-colorscheme1.png //-->
 <!-- LibKGE-logo-3-colorscheme1.png //-->
 <!-- LibKGE-logo-3-colorscheme7.png //-->
@@ -6,7 +5,7 @@
 <!-- LibKGE-logo-2-basic-slim-colorscheme3b.png //-->
 <!-- LibKGE-logo-2-basic-slim-colorscheme5b.png //-->
 <!-- LibKGE%20Logo%20Segoui.svg //-->
-<h1> <img  src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE%20Logo%20Segoui.svg" width="100" align="left"> LibKGE: A knowledge graph embedding library </h1>
+<h1> <img  src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE%20Logo%20Segoui.svg" width="100" align="left"> <div> LibKGE: A knowledge graph embedding library </div> </h1>
 </p>	</p>
 <br/>
 
