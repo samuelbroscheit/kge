@@ -7,7 +7,7 @@
 <!-- LibKGE-logo-2-basic-slim-colorscheme5b.png //-->
 <!-- LibKGE%20Logo%20Segoui.svg //-->
 <div>
-<span style="border: 1px"> 
+<span> 
 <img src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE%20Logo%20Segoui.svg" width="80" align="left"> 
 </span>
 <span> 
