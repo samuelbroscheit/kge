@@ -6,7 +6,8 @@
 <!-- LibKGE-logo-2-basic-slim-colorscheme5b.png //-->
 <!-- LibKGE%20Logo%20Segoui.svg //-->
 
-<img src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE%20Logo.svg" width="140" align="left" >
+<!-- <img src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE%20Logo.svg" width="140" align="left" >  //-->
+<img src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE%20Logo%20Segoui.svg" width="120" align="left" >
 <h1> 
  A knowledge graph embedding library 
 </h1>
