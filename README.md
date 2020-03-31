@@ -11,7 +11,7 @@
 </p>
 
 <p>
-<h1> A knowledge graph embedding library <br/> </h1>
+<h1> LibKGE: A knowledge graph embedding library <br/> <br/> <br/> <br/> <br/> </h1>
 </p>
 
 LibKGE is a PyTorch-based library for efficient training, evaluation, and
