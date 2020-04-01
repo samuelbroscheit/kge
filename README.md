@@ -7,7 +7,7 @@
 <!-- LibKGE%20Logo%20Segoui.svg //-->
 
 <!-- <img src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE%20Logo.svg" width="140" align="left" >  //-->
-<img src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE%20Logo%20Segoui%20-%20Full%20Title.svg" width="100%" align="middle" alt-text="LibKGE: A knowledge graph embedding library">
+<img src="https://github.com/samuelbroscheit/kge/blob/master/docs/source/LibKGE%20Logo%20Segoui%20-%20Full%20Title.svg" width="100%" align="middle" alt="LibKGE: A knowledge graph embedding library">
 <br/>
 
 LibKGE is a PyTorch-based library for efficient training, evaluation, and
